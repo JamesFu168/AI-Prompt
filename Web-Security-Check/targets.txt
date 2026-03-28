@@ -1,0 +1,14 @@
+legal.eshclouds.com
+legal-api.eshclouds.com
+chem.eshclouds.com
+chem-api.eshclouds.com
+carbon.eshclouds.com
+carbon-api.eshclouds.com
+license.eshclouds.com
+license-api.eshclouds.com
+permit.eshclouds.com
+permit-api.eshclouds.com
+risk-next.eshclouds.com
+risk-next-api.eshclouds.com
+
+
